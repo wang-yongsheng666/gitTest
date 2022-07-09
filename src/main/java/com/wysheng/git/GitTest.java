@@ -5,6 +5,7 @@ public class GitTest {
         System.out.println("hello,Git");
         System.out.println("Hello");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 
     public void swap(int a, int b) {
